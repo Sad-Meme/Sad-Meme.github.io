@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f98b361f-347d-466a-8a18-bab0a62cb3bf" name="webdev-step1" url="http://webdev.cse.msu.edu/~bojisade/step1">
+        <fileTransfer rootFolder="/user/bojisade/classweb/step1" accessType="SFTP" host="arctic.cse.msu.edu" port="22" sshConfigId="9e974218-b1fc-42f5-8fa3-1a0033a93b0e" sshConfig="bojisade@arctic.cse.msu.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="725ece69-fbd5-484b-899a-cf470637a84c" name="webdev-step2 (project level)" url="http://webdev.cse.msu.edu/~bojisade/step2">
+        <fileTransfer rootFolder="/user/bojisade/classweb/step2" accessType="SFTP" host="arctic.cse.msu.edu" port="22" sshConfigId="9e974218-b1fc-42f5-8fa3-1a0033a93b0e" sshConfig="bojisade@arctic.cse.msu.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
