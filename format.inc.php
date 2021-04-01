@@ -9,7 +9,7 @@ function present_header($title) {
     $html = <<<HTML
 <header>
 
-<nav><p><a class="name" href="main.php">Sadeem Boji</a>
+<nav><p><a class="name" href="index.php">Sadeem Boji</a>
 
 <!--<a class="right" href="projects.php">Projects</a>-->
 <a class="right" href="about.php">About</a>
