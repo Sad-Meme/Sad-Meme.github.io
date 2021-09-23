@@ -16,7 +16,7 @@ require 'format.inc.php';
 <h1>Contact Info</h1>
 
 <div class="contact">
-    <p>Email: sadeemtboji@gmail.com</p>
+    <p>Email Me! <a href="mailto:sadeemtboji@gmail.com"></p>
 </div>
 
 <?php echo present_footer();?>

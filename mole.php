@@ -62,7 +62,7 @@ require 'format.inc.php';
         <h2>Takeaways</h2>
         <ul>
             <li>Managing a small team is all about keeping morals high and not over working or crunching the team</li>
-            <li>5 weeks goes by fast and as a team we needed to prioritize the core concept of pur game to get it done in time</li>
+            <li>5 weeks goes by fast and as a team we needed to prioritize the core concept of our game to get it done in time</li>
             <li>How to use scriptable objects and their functionality</li>
         </ul>
     </div>

@@ -62,7 +62,7 @@ require 'format.inc.php';
 </div>
 
 <div class="contact">
-    <p>Email: sadeemtboji@gmail.com</p>
+    <p><a href="mailto:sadeemtboji@gmail.com">Email Me!</a></p>
     <p>Linkedin: <a href="https://www.linkedin.com/in/sadeem-boji"><img src="images/link.png" height="25" width="25"></a></p>
     <p>Handshake: <a href="https://msu.joinhandshake.com/users/12682454"><img src="images/handshake.png" height="25" width="25"></a></p>
 </div>

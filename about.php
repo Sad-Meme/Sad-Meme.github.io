@@ -17,9 +17,9 @@ require 'format.inc.php';
     <div class="Acontainer">
         <img class="Acontainer__image" src="images/bojisade_2.png" height="500" width="300" alt="Sadeem Boji">
         <div class="Acontainer__text">
-            <p>Hi! I am a programmer from Michigan and currently go to Michigan State University. There I am double majoring in Computer Science Engineering and in Games and Interactive Media. MSU’s Games curriculum is ranked Seventh in the States. I am also the treasure for the MSU Smash Ultimate Club.</p>
+            <p>Hi! I am a programmer from Michigan and currently go to Michigan State University. There I am double majoring in Computer Science Engineering and in Games and Interactive Media. MSU’s Games curriculum is ranked seventh in the States. I am also the Vice President for the MSU Smash Ultimate Club.</p>
             <br>
-            <p>Currently I am working as an Undergraduate Teaching Assistant teaching students the basics of python. This job has greatly improved my teaching abilities. It has taught me how to make examples on the fly and adjust my class to better help the students understand python concepts.</p>
+            <p>Currently I am working as an Undergraduate Teaching Assistant teaching students the basics of Python. This job has greatly improved my teaching abilities. It has taught me how to make examples on the fly and adjust my class to better help the students understand Python concepts.</p>
         </div>
     </div>
 
@@ -35,6 +35,8 @@ require 'format.inc.php';
                     <li>Software Design</li>
                     <li>Computer Graphics</li>
                     <li>Web Development</li>
+                    <li>Software Engineering</li>
+                    <li>Mobile App Development</li>
                 </ul>
             </div>
         </div>
@@ -45,6 +47,8 @@ require 'format.inc.php';
                     <li>Games and Interactivity</li>
                     <li>Game Design & Development</li>
                     <li>Preproduction for Games</li>
+                    <li>Advanced Game Development</li>
+                    <li>Game Design Studio</li>
                 </ul>
             </div>
         </div>
