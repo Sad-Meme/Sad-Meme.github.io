@@ -14,7 +14,7 @@ function present_header($title) {
 <!--<a class="right" href="projects.php">Projects</a>-->
 <a class="right" href="about.php">About</a>
 <!--<a class="right" href="contact.php">Contact</a>-->
-<a class="right" href="https://docs.google.com/document/d/1fdFanA9-QDxjCmtawyPvgl4zIycTMWN3MYIAOe99Qb0/export?format=pdf" target="_blank">Resume</a></p></nav>
+<a class="right" href="https://docs.google.com/document/d/e/2PACX-1vTOifu1vcvtM_YqEZ3gLWYOMle5TRQDCwsbP2-Yasxp_aoL9wpF3TogHWa9XUS-DXCnQHsFaY2atEO3/pub" target="_blank">Resume</a></p></nav>
 <!--<h1>$title</h1>-->
 </header>
 HTML;
